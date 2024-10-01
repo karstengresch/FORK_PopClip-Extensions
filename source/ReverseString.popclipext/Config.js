@@ -6,4 +6,6 @@
 // popclip version: 4615
 // language: javascript
 
-  return popclip.input.txt.split('').reverse().join('');
+exports.action = function (input) {
+  popclip.pasteText(input.txt.split('').reverse().join(''));
+};
