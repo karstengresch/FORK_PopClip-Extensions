@@ -1,6 +1,6 @@
 // #popclip
 // name: ReverseString
-// identifier: de.gresch.reversestring
+// identifier: com.pilotmoon.popclip.extension.reversestring
 // description: Reverses the selected string
 // icon: square filled RS
 // popclip version: 4615
