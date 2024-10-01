@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
+<title>Karsten Gresch's Git Achievements</title>
+<description></description>
+<link></link>
+<item><title>Master Socialite (Level 11)</title><description>Pushed a branch to a remote repository using git push</description></item>
+<item><title>Collector (Level 5)</title><description>Fetched named heads or tags from another repository with git fetch</description></item>
+<item><title>Apprentice Cathedral Architect (Level 1)</title><description>Added a submodule to a repository.</description></item>
+<item><title>Apprentice Product Manager (Level 2)</title><description>Stashed the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
+<item><title>Apprentice Banker (Level 3)</title><description>Joined two or more development histories together with git merge.</description></item>
+<item><title>Master Author (Level 11)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Seamstress (Level 5)</title><description>Amended a commit with git commit --amend.</description></item>
+<item><title>Master Socialite (Level 10)</title><description>Pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Thug (Level 3)</title><description>Forced pushed a branch with git push -f</description></item>
+<item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
+<item><title>Apprentice Gardner (Level 1)</title><description>Showed the commit ancestry graph with git show-branch</description></item>
+<item><title>Apprentice Collector (Level 3)</title><description>Fetched named heads or tags from another repository with git fetch</description></item>
+<item><title>Master Socialite (Level 9)</title><description>Pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Thug (Level 2)</title><description>Forced pushed a branch with git push -f</description></item>
+<item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Apprentice Collector (Level 2)</title><description>Fetched named heads or tags from another repository with git fetch</description></item>
+<item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
+<item><title>Master Socialite (Level 8)</title><description>Pushed a branch to a remote repository using git push</description></item>
+</channel></rss>
