@@ -5,6 +5,4 @@
 // icon: square filled RS
 // popclip version: 4615
 
-exports.action = (input) => {
-    popclip.pasteText(input.txt.split('').reverse().join(''));
-  };
+  return popclip.input.txt.split('').reverse().join('');
