@@ -6,5 +6,5 @@
 // popclip version: 4615
 
 exports.action = (input) => {
-    popclip.pasteText([...input.txt].reverse().join(""));
+    popclip.pasteText(input.txt.split('').reverse().join(''));
   };
